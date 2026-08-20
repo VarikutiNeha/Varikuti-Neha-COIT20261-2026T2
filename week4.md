@@ -1,7 +1,7 @@
 ## **Task 1 — HTTP Client with GUI**    
 
 **Network Topology**    
-![Network Topology](./images/week4_ss11.png)         
+![Network Topology](./images/ss_1.png)         
 This screenshot shows the completed network topology for the HTTP GUI client. The network contains the Firefox client, two routers, switches, and the Linux server connected through three subnets. This demonstrates the network structure used for communication between the HTTP client and server.    
 
 **GUI network topology**    
