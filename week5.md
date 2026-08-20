@@ -2,7 +2,7 @@ run the sysytem
 ss6    
 
 **Network Topology**
-![Network Topology](./images/ss_1.png)    
+![Network Topology](./images/week5_ss_1.png)    
 This screenshot shows the GNS3 network topology with the hosts, router and switch connected together.    
 
 **Switch Console**
