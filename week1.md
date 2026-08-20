@@ -1,29 +1,48 @@
-PORTFOLIO
-2324619 - COIT20261 - 2026T2
-1. Understand the Unit:
+## **PORTFOLIO**
+**Name:** Neha    
+**StudentID:** 12324619    
 
-· Review the unit profile to understand the unit and its assessment tasks.
+--------------------------------------------------
+
+## **1. Understand the Unit:**
+
+**Review the unit profile to understand the unit and its assessment tasks.**
 - Done
 
-2. Software Setup:
+---------------------------------------------------
 
-· Check if you have the necessary software installed on your computer:
-· VirtualBox (virtualization software)
-![Screenshort1](./images/Screenshot_04.png)
-· GNS 3 (network simulator tool)
-![Screenshort1](./images/Screenshot_03.png)
+## **2. Software Setup:**
+   
+**GNS 3 (network simulator tool)**
+![GNS3 VM Console](./images/Screenshot_03.png)    
 
-3. GitHub Repository:
+The below screenshot is a representation of the working of the GNS3 virtual machine on VirtualBox. I worked on the GNS3 VM console and got an understanding of the options available in it.   
 
-· Create a private GitHub repository named [student number]-[COIT20261]-[2026T2] for this unit.
-![Screenshort1](./images/week1_task1.png)
-· Share the repository with your tutor.
-done
+**VirtualBox (virtualization software)**
+![VirtualBox Settings](./images/Screenshot_04.png)
 
-TASK 1
-Screenshot of the network, e.g., GNS-Intro-<studentid>-network.png
-![Screenshort1](./images/Screenshot_01.png)
+This screenshot shows the configuration of the GNS3 virtual machine in VirtualBox. I checked the allocated memory, storage, and network adapters and learned how the virtual machine is configured to support GNS3.    
 
-Screenshot of the console showing the IP address, e.g., GNS-Intro-<studentid>-ipaddress.png
-![Screenshort1](./images/Screenshot_02.png)
+-----------------------------------------
+
+## **3. GitHub Repository:**
+
+![GitHub Repository](./images/week1_task1.png)    
+
+This screenshot shows my GitHub repository for the COIT20261 unit. I used the repository to organise my weekly portfolio files and learned how GitHub can be used to store and manage my coursework.    
+
+**Share the repository with your tutor.**    
+- Done
+
+--------------------------------------------
+
+## **TASK 1**    
+
+![GNS3 Network Topology](./images/Screenshot_01.png)    
+
+This screenshot shows my GNS3 project with a Linux host and the required project information and IP address annotations. I learned how to create a basic GNS3 topology, add a host, and document the network configuration.
+
+![Linux Console](./images/Screenshot_02.png)    
+
+This image illustrates the Linux console output which displays the network interface details. Using the "ip address" command, I was able to confirm that the IP address assigned to the interface eth0 was 192.168.0.2/24. This enabled me to learn about verifying the IP address in Linux.
 
