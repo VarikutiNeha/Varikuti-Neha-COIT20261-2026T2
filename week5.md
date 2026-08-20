@@ -29,4 +29,5 @@ ss6
 ![Screenshort1](./images/task2_ss19.png)
 ![Screenshort1](./images/task2_ss20.png)
 ![Screenshort1](./images/task2_ss20.1.png)
-![Screenshort1](./images/task2_ss21.png)
+![Screenshort1](./images/task2_ss22.png)
+![Screenshort1](./images/task2_ss23.png)
