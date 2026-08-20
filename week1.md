@@ -42,7 +42,7 @@ This screenshot shows my GitHub repository for the COIT20261 unit. I used the re
 
 This screenshot shows my GNS3 project with a Linux host and the required project information and IP address annotations. I learned how to create a basic GNS3 topology, add a host, and document the network configuration.
 
-![Linux Console](./images/Screenshot_02.png)    
+![Linux Console](./images/ss_4.png)    
 
 This image illustrates the Linux console output which displays the network interface details. Using the "ip address" command, I was able to confirm that the IP address assigned to the interface eth0 was 192.168.0.2/24. This enabled me to learn about verifying the IP address in Linux.
 
