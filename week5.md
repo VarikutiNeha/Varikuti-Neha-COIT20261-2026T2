@@ -26,11 +26,11 @@ This screenshot shows the successful ping test between the hosts on the network.
 ![GNS3 Network Topology](./images/ss_6.png)    
 This screenshot shows the GNS3 network topology created for the routing task. The topology contains multiple Linux hosts connected through an Ethernet switch, with a Linux router providing connectivity between different network segments. I learned how to create and connect network devices in GNS3 and understand how hosts, switches and routers work together. Configuring the topology also helped me understand the role of a router as a gateway between subnets. This activity improved my practical understanding of IP addressing, network interfaces and basic routing.    
 
-![Screenshort1](./images/ss_7.1.png)
-![Screenshort1](./images/ss_7.2.png)
-![Screenshort1](./images/ss_7.3.png)
-![Screenshort1](./images/ss_7.4.png)
-![Screenshort1](./images/ss_8.png)
+![Screenshort1](./images/week5_host1.png)
+![Screenshort1](./images/week5_host1ping.png)
+![Screenshort1](./images/week5_host2.png)
+![Screenshort1](./images/week5_host3.png)
+![Screenshort1](./images/week5_router.png)
 ![Screenshort1](./images/ss_9.png)
 ![Screenshort1](./images/ss_9.1.png)
 ![Screenshort1](./images/task2_ss10.png)
