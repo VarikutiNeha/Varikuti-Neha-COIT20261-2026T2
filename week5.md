@@ -6,11 +6,11 @@ ss6
 This screenshot shows the GNS3 network topology with the hosts, router and switch connected together.    
 
 **Switch Console**
-![Switch Console](./images/ss_2.png)    
+![Switch Console](./images/week5_ss_2.png)    
 This screenshot shows the switch console and the Open vSwitch connection status. It is part of checking and configuring the switch before continuing with the network setup.    
 
 **Switch Port Configuration**    
-![SSwitch Port Configuration](./images/ss_3.png)    
+![SSwitch Port Configuration](./images/week5_ss_3.png)    
 This screenshot shows the switch port configuration where VLAN tag 10 has been assigned to the Ethernet ports. It shows the configuration applied to the switch ports.    
 
 **Router Network Configuration**    
