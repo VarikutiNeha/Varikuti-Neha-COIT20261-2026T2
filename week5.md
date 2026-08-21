@@ -50,10 +50,10 @@ I used show ip ospf neighbor to check the routers connected to FRR1. The output 
 I used show ip ospf route to view the networks learned by OSPF. The output shows directly connected networks as well as remote networks reached through other routers. I could see that the destination 10.10.6.0/24 had two possible paths.    
 
 **Linux/FRR routing table**    
-![Linux/FRR routing table](./images/week5_routing_table1png)    
+![Linux/FRR routing table](./images/week5_routing_table1.png)    
 I checked the full routing table using show ip route. The output includes directly connected networks and OSPF routes, such as the routes to 10.10.4.0/24, 10.10.5.0/24 and 10.10.6.0/24. This helped me understand how OSPF information is used for forwarding.    
 
-**Ping to Host 2**
+**Ping to Host 2**    
 ![Ping to Host 2](./images/week5_Ping_to_Host2.png)    
 I tested connectivity from Host 1 to 10.10.6.102 using ping. All five packets were received with 0% packet loss. This confirmed that Host 1 could successfully reach Host 2 through the OSPF network.    
 
@@ -62,7 +62,7 @@ I tested connectivity from Host 1 to 10.10.6.102 using ping. All five packets we
 After confirming the ping was successful, I used traceroute to see the path to Host 2. The path shown goes through 10.10.1.1, 10.10.2.2 and 10.10.4.4 before reaching 10.10.6.102. This made the routing path easier for me to understand.    
 
 **traceroute output**    
-![traceroute output](./images/week5_week5_traceroute_output.png)    
+![traceroute output](./images/week5_traceroute_output.png)    
 This screenshot clearly shows the first traceroute result. The packets reached Host 2 through 10.10.2.2 and then 10.10.4.4. I used this result as the path to compare with the route after the network link was disconnected.
 
 **GNS3 topology**    
