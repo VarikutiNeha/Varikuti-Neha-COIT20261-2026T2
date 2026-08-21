@@ -1,17 +1,17 @@
-## **PORTFOLIO**
+### **PORTFOLIO**
 **Name:** Neha    
 **StudentID:** 12324619    
 
 --------------------------------------------------
 
-## **1. Understand the Unit:**
+**1. Understand the Unit:**
 
 **Review the unit profile to understand the unit and its assessment tasks.**
 - Done
 
 ---------------------------------------------------
 
-## **2. Software Setup:**
+**2. Software Setup:**
    
 **GNS 3 (network simulator tool)**
 ![GNS3 VM Console](./images/Screenshot_03.png)    
@@ -25,7 +25,7 @@ This screenshot shows the configuration of the GNS3 virtual machine in VirtualBo
 
 -----------------------------------------
 
-## **3. GitHub Repository:**
+**3. GitHub Repository:**
 
 ![GitHub Repository](./images/week1_task1.png)    
 
@@ -36,7 +36,7 @@ This screenshot shows my GitHub repository for the COIT20261 unit. I used the re
 
 --------------------------------------------
 
-## **TASK 1**    
+## **TASK 1: Introduction to GNS3 Basics**    
 
 ![GNS3 Network Topology](./images/Screenshot_01.png)    
 
