@@ -11,7 +11,7 @@ This screenshot shows the completed network topology for the HTTP GUI client. Th
 ![noVNC](./images/week4_ss9.png)    
 This screenshot shows the noVNC interface used to access the graphical Host1 environment. I used noVNC to access Host1 remotely and run the Firefox web browser for the HTTP client activity.
 
-**Firefox accessing the web server**
+**Firefox accessing the web server**    
 ![Firefox accessing the web server](./images/week4_ss10.png)    
 This screenshot shows Firefox running on Host1 and successfully accessing the web server at 10.10.3.102. It demonstrates that the GUI-based HTTP client was able to communicate with the HTTP server through the configured network.    
 
