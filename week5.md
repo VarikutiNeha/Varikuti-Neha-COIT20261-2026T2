@@ -29,11 +29,11 @@ I used ip route show to view the routing table. The output shows the connected 1
 
 ## **TASK2: Dynamic Routing with OSPF **    
 
-**GNS3 project list**
+**GNS3 project list**    
 ![GNS3 project list](./images/task2_ss10.png)    
 This screenshot shows the GNS3 project list, including the OSPF-Basics-Template and the View-Routes project. I used this to locate the project needed for the dynamic routing activity.    
 
-**OSPF network in GNS3**
+**OSPF network in GNS3**    
 ![OSPF topology view](./images/task2_ss12.png)    
 I opened the OSPF network in GNS3 and checked the overall topology. I could see the hosts, routers and NETem nodes connected together. This gave me a clear view of the network before checking the routing information   
 
@@ -41,7 +41,7 @@ I opened the OSPF network in GNS3 and checked the overall topology. I could see 
 ![OSPF commands](./images/task2_ss18.png)    
 I recorded the three FRR commands used for the routing activity: show ip ospf neighbor, show ip ospf route and show ip route. These commands gave me different views of the OSPF neighbours and routing tables.    
 
-**OSPF neighbours**
+**OSPF neighbours**    
 ![OSPF neighbours](./images/Week5_neighbour.png)    
 I used show ip ospf neighbor to check the routers connected to FRR1. The output shows two neighbours with Full/DR state. This helped me understand how OSPF routers establish neighbour relationships.    
 
@@ -56,15 +56,16 @@ I checked the full routing table using show ip route. The output includes direct
 **Ping to Host 2**
 ![Ping to Host 2](./images/week5_Ping_to_Host2.png)    
 I tested connectivity from Host 1 to 10.10.6.102 using ping. All five packets were received with 0% packet loss. This confirmed that Host 1 could successfully reach Host 2 through the OSPF network.    
+
 **Ping and first traceroute**    
 ![Ping and first traceroute](./images/week5_Ping_and_traceroute.png)    
 After confirming the ping was successful, I used traceroute to see the path to Host 2. The path shown goes through 10.10.1.1, 10.10.2.2 and 10.10.4.4 before reaching 10.10.6.102. This made the routing path easier for me to understand.    
 
-**traceroute output**
+**traceroute output**    
 ![traceroute output](./images/week5_week5_traceroute_output.png)    
 This screenshot clearly shows the first traceroute result. The packets reached Host 2 through 10.10.2.2 and then 10.10.4.4. I used this result as the path to compare with the route after the network link was disconnected.
 
-**GNS3 topology**
+**GNS3 topology**    
 ![GNS3 topology](./images/task2_ss22.png)    
 I checked the GNS3 topology after changing the network path. The routers, hosts and NETem nodes are still visible, which helped me verify the state of the network before finishing the test.
 
