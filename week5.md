@@ -25,6 +25,8 @@ I checked the router interfaces and forwarding setting. The router has addresses
 ![Routing table](./images/ss_9.1.png)    
 I used ip route show to view the routing table. The output shows the connected 10.1.1.0/24 and 10.1.2.0/24 networks. I learned that the routing table gives the router information about where packets for different networks should be sent.   
 
+-----------------------------------------
+
 ## **TASK2: Dynamic Routing with OSPF **    
 
 **GNS3 project list**
