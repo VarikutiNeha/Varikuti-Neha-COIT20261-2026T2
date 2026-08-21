@@ -27,7 +27,7 @@ I used ip route show to view the routing table. The output shows the connected 1
 
 -----------------------------------------
 
-## **TASK2: Dynamic Routing with OSPF **    
+## **TASK2: Dynamic Routing with OSPF**    
 
 **GNS3 project list**    
 ![GNS3 project list](./images/task2_ss10.png)    
