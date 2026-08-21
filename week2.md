@@ -40,7 +40,7 @@ This screenshot shows the use of the ip address add command to configure Host4. 
 
 This screenshot shows a ping test to an IP address that is not available on the network. The responses show “Destination Host Unreachable,” demonstrating that the destination could not be reached. This helped me understand how ping can be used to identify connectivity problems and verify whether a device is reachable on a network.    
 
-**Ping to Host2**
+**Ping to Host2**    
 ![Ping to Host2](./images/ping1.png)    
 
 This screenshot shows a successful ping test between two hosts on the same network. The responses confirm that the destination is reachable, with 0% packet loss and a measured round-trip time. I also learned how ping options can be used to change the number and size of packets sent and observe their effect on the results.
