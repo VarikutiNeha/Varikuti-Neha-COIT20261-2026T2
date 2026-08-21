@@ -24,7 +24,7 @@ This screenshot shows the IP address configuration of another Linux host, with e
 ![Host IP configuration](./images/week3-ss6.png)    
 This screenshot shows another host configured with an IP address in the same network. By checking the interface configuration, I verified that the host had a valid address and could communicate with the other hosts on the LAN.    
 
-**GNS3 topology during packet capture setup**
+**GNS3 topology during packet capture setup**    
 ![GNS3 topology during packet capture setup](./images/week3-ss7.png)    
 This screenshot shows the GNS3 topology with the packet-capture option selected on the network link. I used this link to capture the packets generated during the communication tests.   
 
