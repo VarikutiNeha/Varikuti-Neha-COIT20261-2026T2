@@ -1,9 +1,3 @@
-## **PORTFOLIO**
-**Name:** Neha    
-**StudentID:** 12324619    
-
-----------------------------------------
-
 ## **Task 1: Setting Static IP Addresses**     
 
 **Network Topology**
